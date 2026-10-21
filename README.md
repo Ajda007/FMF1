@@ -14,6 +14,7 @@
 - Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
 - Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
 - Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
+
 <!-- 2. nivojski razdelek -->
 ## Koda
 
@@ -41,3 +42,4 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 1. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 1. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
 1. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+5. [Urnik FMF](https://urnik.fmf.uni-lj.si/)
